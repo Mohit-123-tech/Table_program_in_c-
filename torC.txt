@@ -1,0 +1,25 @@
+	
+**> how to use this app
+ 
+1. first open the foldel and open terminal on app folder 
+2. type the command
+3. windows --> mkit 
+4. linux --> ./mkit
+5. and type the command and use the app
+
+
+		=============== Commads_List ===============
+
+clear
+uname
+add
+table
+doller
+monthS
+yearS
+sup
+div
+multi
+odd
+sqrt
+strsize
